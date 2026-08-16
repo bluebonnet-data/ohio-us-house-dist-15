@@ -36,3 +36,13 @@ Thumbs.db
 dist/
 build/
 *.egg-info/
+
+# Geospatial data
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.geojson
+data/**/
+!data/.gitkeep
