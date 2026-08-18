@@ -46,3 +46,4 @@ build/
 *.geojson
 data/**/
 !data/.gitkeep
+*.xls
